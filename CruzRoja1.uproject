@@ -17,6 +17,26 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "RojiFileUtilities",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/723674019a2d477f9b27055a9968db5f"
+		},
+		{
+			"Name": "ReadWritePlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/74b9f3d768c845ad8282fd4aa0cef343"
+		},
+		{
+			"Name": "FileHelper",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bec5be3d587f4ff49a61d45d0e81e4c0"
+		},
+		{
+			"Name": "DTXml",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/15eaca71d58f421982ce73b98ff1a272"
 		}
 	],
 	"TargetPlatforms": [
@@ -27,6 +47,7 @@
 		"Switch",
 		"XboxOne",
 		"XSX",
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
