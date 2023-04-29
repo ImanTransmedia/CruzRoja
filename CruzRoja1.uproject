@@ -20,12 +20,12 @@
 		},
 		{
 			"Name": "RojiFileUtilities",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/723674019a2d477f9b27055a9968db5f"
 		},
 		{
 			"Name": "ReadWritePlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/74b9f3d768c845ad8282fd4aa0cef343"
 		},
 		{
@@ -35,8 +35,13 @@
 		},
 		{
 			"Name": "DTXml",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/15eaca71d58f421982ce73b98ff1a272"
+		},
+		{
+			"Name": "DirectExcel",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/59f434efddeb4c93b27c8e05719664f1"
 		}
 	],
 	"TargetPlatforms": [
